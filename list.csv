@@ -1,6 +1,6 @@
-ID, object
-1, Walk Dog,
-2, Eat Breakfast
-3, Shower
-4, Work
-5, Go to Sleep
+Object
+Walk Dog,
+Eat Breakfast
+Shower
+Work
+Go to Sleep
